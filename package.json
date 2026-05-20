@@ -1,0 +1,29 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@inertiajs/vue3": "^1.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@tailwindcss/vite": "^4.2.1",
+        "@vitejs/plugin-vue": "^6.0.4",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^1.3.0",
+        "lodash": "^4.17.19",
+        "tailwindcss": "^4.2.1",
+        "typescript": "^5.9.3",
+        "vite": "^6.4.1",
+        "vue": "^3.5.29",
+        "vue-tsc": "^3.2.5"
+    },
+    "dependencies": {
+        "@google/genai": "^1.44.0",
+        "chart.js": "^4.5.1",
+        "lucide-vue-next": "^0.577.0",
+        "motion": "^12.35.1",
+        "vue-chartjs": "^5.3.3",
+        "vue-router": "^5.0.3"
+    }
+}
